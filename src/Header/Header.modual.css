@@ -1,0 +1,18 @@
+body
+{
+  background-color: white;
+}
+
+.text-dark:hover
+{
+  color: lightgray !important;
+}
+.Header
+{
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  z-index: 5;
+  width: 100%;
+}
+
